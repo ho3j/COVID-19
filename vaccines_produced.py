@@ -149,15 +149,3 @@ def details():
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-#print("phases:\t",phases)
